@@ -1,3 +1,5 @@
+#termux-change-repo
+
 #pkg update
 
 #pkg upgrade 
