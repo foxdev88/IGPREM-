@@ -1,9 +1,11 @@
 ## TOOLS CRACK INSTAGRAM
 ### PERINTAH 
-```termux-change-repo
+```
+termux-change-repo
 pkg update
-pkg upgrade 
-pkg install python 
+pkg upgrade
+pkg install python
+pkg install git
 pip install mechanize
 pip install requests
 pip install future
