@@ -11,4 +11,4 @@ pip install futures
 git pull
 git clone https://github.com/foxdev88/IGPREM-
 cd IGPREM-
-python IGPREMIUM.py```
+python IGPREMIUM.py
