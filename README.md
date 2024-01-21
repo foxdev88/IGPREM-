@@ -1,6 +1,6 @@
 ## TOOLS CRACK INSTAGRAM
 ### PERINTAH 
-'''''
+''''''''''
 #termux-change-repo
 #pkg update
 #pkg upgrade 
@@ -13,4 +13,4 @@
 #git clone https://github.com/foxdev88/IGPREM-
 #cd IGPREM-
 #python IGPREMIUM.py
-'''''
+'''''''''
